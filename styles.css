@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.center {
+  margin-top: 200px;
+}
+
+.container {
+  margin: auto;
+  max-width: 300px;
+}
